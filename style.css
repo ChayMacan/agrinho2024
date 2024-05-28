@@ -4,6 +4,8 @@ body{
 
 header{
  display:flex;   
+ align-items: center
+ justify-cont;
     background-color: rgb(214, 189, 238);
 }
 
