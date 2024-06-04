@@ -4,8 +4,8 @@ body{
 
 header{
  display:flex;   
- align-items: center
- justify-cont;
+ align-items: center;
+ justify-content:space-between
     background-color: rgb(214, 189, 238);
 }
 
