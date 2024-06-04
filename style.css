@@ -10,9 +10,9 @@ header{
 }
 
 footer{
-    background-color: aqua;
-}
+    background-color: rgb(245, 214, 255);
 
+}
 .cabecalho_imagem{
  width: 200px;   
  height: 200px;
@@ -23,6 +23,7 @@ footer{
 .cabecalho_menu-listaitem{
    
     margin:20px;
+    
 }
 
 
